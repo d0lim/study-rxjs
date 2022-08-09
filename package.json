@@ -1,0 +1,8 @@
+{
+  "name": "study-rxjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/d0lim/study-rxjs.git",
+  "author": "d0lim <limdongyoung0@gmail.com>",
+  "license": "MIT"
+}
